@@ -59,3 +59,7 @@ Remember to use your cheatsheet, get help from your buddy, & ask for help.
 
 - For more [Windows Terminal Commands](https://www.thomas-krenn.com/en/wiki/Cmd_commands_under_Windows)
 - For more [Mac & Linux Terminal Commands](https://fossbytes.com/a-z-list-linux-command-line-reference/)
+
+- To learn more about [Le Wagon](www.lewagon.com)
+- Connect with me at [LinkedIn](https://www.linkedin.com/in/sheilaleveille/)
+- Learn [more about me](www.sheilaleveille.com)
