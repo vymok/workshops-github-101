@@ -27,31 +27,34 @@ Remember to use your cheatsheet, get help from your buddy, & ask for help.
 3. Create a new folder using your command line 
 4. Move into your new folder and create a new file named `index.html`
 5. Initialise git for the directory 
-6. On your desktop, drag your new `index.html` file into your text editor. Write something inside & save it. 
-7. In your terminal, use the Git command to review the status of your files. 
-8. Add your `index.html` to the staging area. 
-9. Add a commit message to explain what changed in your file. 
-10. Create a new branch! 
-11. Jump into your new branch. 
-12. Now, use `git checkout` to get back to your master branch. 
+6. On your desktop, drag your new `index.html` file into your text editor. Write something inside & save it
+7. In your terminal, use the Git command to review the status of your files
+8. Add your `index.html` to the staging area
+9. Add a commit message to explain what changed in your file 
+10. Create a new branch & go into it
+11. Add a new line of text in your `index.html` file
+12. Again, add your changes and create a commit message about the changes
+13. Now, use `git checkout` to get back to your master branch
+14. Merge the changes from your branch into your master branch
 
 
 # Challenge 2
 
 1. Open your terminal
-2. Print out your current directory. Make sure you are in your Desktop. 
+2. Print out your current directory. Make sure you are in your Desktop or in the previous folder you were working with
 3. Go to this repo: `https://github.com/sheesh19/workshops-github-101`
-4. **Fork** the repository (to make you the Master of the repo). 
-5. `git clone` your new repo into your folder. 
+4. **Fork** the repository (to make you the Master of the repo)
+5. `git clone` your new repo into your folder
+
 
 # Challenge 3 
-1. Create a new branch & switch to the new branch. 
-2. Update the HTML file with your name & save it. 
-3. To save the version, use `git add <file_name>`. 
-4. Add a commit message with `git commit -m "your commit message"`.
-5. Run `git remote -v` to see the remote repo linked to your project. 
-6. Finally, push your branch to GitHub! Make sure to use `git push origin <your_branch_name>`.
-7. Create a pull request & merge your branch on GitHub. 
+1. Create a new branch & switch to the new branch
+2. Update the HTML file with your name & save it 
+3. To save the version, use `git add <file_name>` 
+4. Add a commit message with `git commit -m "your commit message"`
+5. Run `git remote -v` to see the remote repo linked to your project
+6. Finally, push your branch to GitHub! Make sure to use `git push origin <your_branch_name>`
+7. Create a pull request & merge your branch on GitHub
 
 
 
