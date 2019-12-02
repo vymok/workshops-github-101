@@ -28,11 +28,12 @@ Remember to use your cheatsheet, get help from your buddy, & ask for help.
 4. Move into your new folder and create a new file named `index.html`
 5. Initialise git for the directory 
 6. On your desktop, drag your new `index.html` file into your text editor. Write something inside & save it. 
-7. In your terminal, which Git command do you use to review what changed in your file? Use it. 
-8. Add a commit message to explain what changed in your file. 
-9 Create a new branch! 
-10. Jump into your new branch. 
-11. Now, use `git checkout` to get back to your master branch. 
+7. In your terminal, use the Git command to review the status of your files. 
+8. Add your `index.html` to the staging area. 
+9. Add a commit message to explain what changed in your file. 
+10. Create a new branch! 
+11. Jump into your new branch. 
+12. Now, use `git checkout` to get back to your master branch. 
 
 
 # Challenge 2
