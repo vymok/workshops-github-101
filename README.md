@@ -53,4 +53,9 @@ Remember to use your cheatsheet, get help from your buddy, & ask for help.
 7. Create a pull request & merge your branch on GitHub. 
 
 
-**Congratulations! You've made your own local files, used a GitHub repo, and created a pull request to update the master. 
+
+**Congratulations!** You've made your own local files, used a GitHub repo, and created a pull request to update the master. 
+
+
+- For more [Windows Terminal Commands](https://www.thomas-krenn.com/en/wiki/Cmd_commands_under_Windows)
+- For more [Mac & Linux Terminal Commands](https://fossbytes.com/a-z-list-linux-command-line-reference/)
